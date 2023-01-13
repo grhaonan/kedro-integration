@@ -9,6 +9,7 @@ conf/local/**
 conf/**/*credentials*
 
 # ignore everything in the following folders
+# Local project data (not committed to version control)
 data/**
 logs/**
 
